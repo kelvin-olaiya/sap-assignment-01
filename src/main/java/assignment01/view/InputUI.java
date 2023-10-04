@@ -1,7 +1,7 @@
-package mvc_assignment.view;
+package assignment01.view;
 
-import mvc_assignment.UserInputSource;
-import mvc_assignment.controller.UserInputObserver;
+import assignment01.UserInputSource;
+import assignment01.controller.UserInputObserver;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,4 +1,4 @@
-package mvc_assignment.model;
+package assignment01.model;
 
 public interface Model {
 

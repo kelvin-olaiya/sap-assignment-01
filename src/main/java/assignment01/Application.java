@@ -1,10 +1,10 @@
-package mvc_assignment;
+package assignment01;
 
-import mvc_assignment.controller.Controller;
-import mvc_assignment.model.ModelImpl;
-import mvc_assignment.view.InputUI;
-import mvc_assignment.view.SwingView;
-import mvc_assignment.view.WebView;
+import assignment01.controller.Controller;
+import assignment01.model.ModelImpl;
+import assignment01.view.InputUI;
+import assignment01.view.SwingView;
+import assignment01.view.WebView;
 
 public class Application {
   static public void main(String[] args) throws Exception {

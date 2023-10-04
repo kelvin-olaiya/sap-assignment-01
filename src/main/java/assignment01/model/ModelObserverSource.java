@@ -1,6 +1,6 @@
-package mvc_assignment.model;
+package assignment01.model;
 
-import mvc_assignment.view.ModelObserver;
+import assignment01.view.ModelObserver;
 
 public interface ModelObserverSource extends Model {
 

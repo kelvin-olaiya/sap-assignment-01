@@ -1,6 +1,6 @@
-package mvc_assignment.view;
+package assignment01.view;
 
-import mvc_assignment.model.ModelObserverSource;
+import assignment01.model.ModelObserverSource;
 
 import javax.swing.*;
 import java.awt.*;

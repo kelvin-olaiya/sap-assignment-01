@@ -1,6 +1,6 @@
-package mvc_assignment;
+package assignment01;
 
-import mvc_assignment.controller.UserInputObserver;
+import assignment01.controller.UserInputObserver;
 
 public interface UserInputSource {
 

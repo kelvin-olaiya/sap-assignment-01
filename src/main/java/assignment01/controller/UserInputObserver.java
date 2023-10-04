@@ -1,4 +1,4 @@
-package mvc_assignment.controller;
+package assignment01.controller;
 
 public interface UserInputObserver {
 

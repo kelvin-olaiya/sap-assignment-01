@@ -1,7 +1,7 @@
-package mvc_assignment.controller;
+package assignment01.controller;
 
 
-import mvc_assignment.model.Model;
+import assignment01.model.Model;
 
 public class Controller implements UserInputObserver {
 	

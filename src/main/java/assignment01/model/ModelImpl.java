@@ -1,6 +1,6 @@
-package mvc_assignment.model;
+package assignment01.model;
 
-import mvc_assignment.view.ModelObserver;
+import assignment01.view.ModelObserver;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package mvc_assignment.view;
+package assignment01.view;
 
 import com.corundumstudio.socketio.AckRequest;
 import com.corundumstudio.socketio.Configuration;
@@ -7,7 +7,7 @@ import com.corundumstudio.socketio.SocketIOServer;
 import com.corundumstudio.socketio.listener.DataListener;
 import io.vertx.core.Vertx;
 import io.vertx.core.http.HttpServer;
-import mvc_assignment.model.ModelObserverSource;
+import assignment01.model.ModelObserverSource;
 
 import java.io.File;
 import java.io.IOException;

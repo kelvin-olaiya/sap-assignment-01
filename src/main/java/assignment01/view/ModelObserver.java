@@ -1,4 +1,4 @@
-package mvc_assignment.view;
+package assignment01.view;
 
 public interface ModelObserver {
 
