@@ -22,5 +22,5 @@ dependencies {
 }
 
 application {
-    mainClass.set("mvc_assignment.AppMain")
+    mainClass.set("assignment01.Application")
 }
